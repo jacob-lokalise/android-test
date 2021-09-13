@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<resources>
+		<string name="key_Forrester_test">Forrester helps business and technology leaders use customer obsession to accelerate growth. That means empowering you to put the customer at the center of everything you do: your leadership, strategy, and operations. Becoming a customer-obsessed organization requires change — it requires being bold. We give business and technology leaders the confidence to put bold into action, shaping and guiding how to navigate today’s unprecedented change in order to succeed.</string>
 		<string name="currency_MDL">Moldovan Leu</string>
 		<string name="settings_cat_other">Other</string>
 		<string name="country_name_VA">Vatican City</string>
